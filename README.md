@@ -12,8 +12,8 @@ I'm a scholar at the School of Biochemical Engineering, IIT (BHU) Varanasi, Indi
 
 
 - 📫 How to reach me:
-- Email: jkhyati25@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/khyatijoshi25)
+  Email: jkhyati25@gmail.com
+  LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/khyatijoshi25)
 
 
 <!--
