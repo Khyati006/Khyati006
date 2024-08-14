@@ -5,13 +5,13 @@ I'm a scholar at the School of Biochemical Engineering, IIT (BHU) Varanasi, Indi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Khyati006&theme=radical)](https://github.com/Khyati006/github-profile-trophy)
 
-## Skills
+## 🌱Skills
 - Bioinformatics
 - Data Analysis
 - Programming
 
 
-- 📫 How to reach me:
+  📫 How to reach me:
   Email: jkhyati25@gmail.com
   LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/khyatijoshi25)
 
