@@ -3,7 +3,7 @@
 ## About Me
 I'm a scholar at the School of Biochemical Engineering, IIT (BHU) Varanasi, India. I have completed my M.Tech from IIIT, Allahabad.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Khyati006&theme=radical&title=-Followers,-Issues)](https://github.com/Khyati006/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Khyati006&theme=flat&title=-Followers,-Issues)](https://github.com/Khyati006/github-profile-trophy)
 
 ## 🌱Skills
 - Bioinformatics
