@@ -1,7 +1,7 @@
 # Hi, I'm Khyati Joshi 👋
 
 ## About Me
-I'm a scholar at the School of Biochemical Engineering, IIT (BHU) Varanasi, India. I have completed my M.Tech from IIIT, Allahabad.
+I'm a research scholar at the School of Biochemical Engineering, IIT (BHU) Varanasi, India. I have completed my M.Tech from IIIT, Allahabad.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Khyati006&theme=discord&title=-Followers,-Issues)](https://github.com/Khyati006/github-profile-trophy)
 
