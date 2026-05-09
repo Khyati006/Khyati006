@@ -13,7 +13,6 @@ I have completed my M.Tech from IIIT, Allahabad.
 
   📫 How to reach me:
   Email: jkhyati25@gmail.com
-  LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/khyatijoshi25)
 
 
 <!--
